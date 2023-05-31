@@ -1,5 +1,5 @@
-const TOKEN = "6072392573:AAGNV6_pw4PZAzxIWVef5C9hUx1nsf1SEMo"; // токен от BotFather
-const CHAT_ID = "408233164"; // chat_id для телеграм
+const TOKEN = ***; // токен от BotFather
+const CHAT_ID = ***; // chat_id для телеграм
 
 var form = document.querySelector(".form");
 form.addEventListener("submit", function (e) {
